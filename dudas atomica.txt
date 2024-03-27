@@ -17,3 +17,4 @@ seccion 9.2 eisberg resnick y 12.2 eisberg moderna:
 	si en teoria los electrones son identicos, por que tendrian numeros cuanticos distintos?
 		alfa seria = a beta y por lo tanto toda la idea de la indistinguibilidad no tiene sentido
 			porque las ecuaciones si se cumplen en ese caso
+cambiofran
