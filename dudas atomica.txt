@@ -1,0 +1,19 @@
+demostrar  7-42 pag 305
+	pag 307 la orientacion espacial del impulso angular puede determinarse mas precisamente
+		para los estados con m = +-l ?????
+entra precesion de thomas??
+precesion de larmor estudiar mejor
+ultimo parrafo de seccion 8-5, no entiendo
+emision estimulada: no pierde energia el foton inicial? no entiendo
+no entiendo bien el cap 8-7, eso es lo q esta mejor explicado en los apuntes? usando los 
+	operadores escalera?
+pedir apuntes unidad 9 y 10
+9-3, como llego? sep de variables pero como?
+tengo el cerebro medio frito
+dormir
+dormir
+dormiiiiiiiiir
+seccion 9.2 eisberg resnick y 12.2 eisberg moderna:
+	si en teoria los electrones son identicos, por que tendrian numeros cuanticos distintos?
+		alfa seria = a beta y por lo tanto toda la idea de la indistinguibilidad no tiene sentido
+			porque las ecuaciones si se cumplen en ese caso
